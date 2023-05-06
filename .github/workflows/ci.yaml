@@ -8,5 +8,5 @@ jobs:
     steps:
       - name: hello
       - run: |
-          echo "hello world"
+          echo "Hello World"
      
