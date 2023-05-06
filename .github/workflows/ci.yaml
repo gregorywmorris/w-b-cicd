@@ -12,5 +12,5 @@ jobs:
           echo "Hello World"
       - name: run python script
         run: |
-          pip install -r requirements.txt
-          python ci.py
+          python3 pip install -r requirements.txt
+          python3 ci.py
